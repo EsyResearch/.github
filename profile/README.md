@@ -1,3 +1,3 @@
 # esy Journal 
 
-![Esy Logo](/esy-origami.jpeg)
+![Esy Logo](/esyjournal-brand-bg.jpeg)

@@ -1,1 +1,1 @@
-![Esy Logo](./esyjournal-brand-bg.jpeg)
+![Esy Logo](/profile/esyjournal-brand-bg.jpeg)

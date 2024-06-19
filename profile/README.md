@@ -1,1 +1,1 @@
-![Esy Logo](https://esy.com/images/esy-brand-logo.png)
+![Esy Logo](https://esy.com/images/essay-writer.png)
